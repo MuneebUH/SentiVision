@@ -31,10 +31,10 @@ def load_data(uploaded_file):
 
 
 # Title
-# st.title("ProductPulse")
+# st.title("SentiVision")
 
 # Title with center alignment
-st.markdown("<h1 style='text-align: center;'>ProductPulse</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>SentiVision</h1>", unsafe_allow_html=True)
 
 # Display an image with adjusted size
 # st.image("image.jpg", caption="Example Image", width=500)  # Adjust width as needed
