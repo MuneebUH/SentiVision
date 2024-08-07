@@ -1,6 +1,6 @@
-# ProductPulse
+# SentiVision
 
-ProductPulse is a Streamlit-based web application designed for sentiment analysis of Amazon product reviews. Users can upload review data, preprocess it, and use machine learning models to predict the sentiment. The app also offers various visualizations for the data and model predictions.
+SentiVision is a Streamlit-based web application designed for sentiment analysis of Amazon product reviews. Users can upload review data, preprocess it, and use machine learning models to predict the sentiment. The app also offers various visualizations for the data and model predictions.
 
 ## Features
 
