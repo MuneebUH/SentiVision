@@ -84,7 +84,7 @@ if df is not None and 'star_rating' in df.columns and 'review_body' in df.column
 
     # Predict sentiments
     y_preds = model_xgb.predict(X_scl)
-    y_preds = df['predicted_sentiment'] 
+    df['predicted_sentiment'] = y_preds 
 
     # Visualization: Rating Count
     st.write("### Rating Count")
