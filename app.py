@@ -183,7 +183,7 @@ st.markdown("""
     <br>
     <center>
         <strong>Developed by Muneeb Ul Hassan</strong>
-        <a href="https://www.linkedin.com/in/muneeb-ul-hassan-machine-learning-expert/" target="_blank">
+        <a href="https://www.linkedin.com/in/muneebulhassan-ml/" target="_blank">
             <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width:20px;height:20px;margin-left:8px;">
         </a>
     </center>
